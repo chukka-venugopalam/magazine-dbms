@@ -33,7 +33,10 @@ A DBMS-based web application to manage articles, authors, categories, and publis
 - Backend/Database: Supabase (PostgreSQL)  
 
 ---
+# Link Demo 
+https://chukka-venugopalam.github.io/magazine-dbms/
 
+---
 ##  Project Structure
 index.html   → UI structure
 style.css    → Styling
